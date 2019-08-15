@@ -15,8 +15,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://rubylou.github.io/nevermoveabout
-source_url: https://rubylou.github.io/nevermoveabout
+production_url: https://rubylou.github.io/nevermoveabout/
+source_url: https://rubylou.github.io/nevermoveabout/
 CNAME: #add cname for website to be created
 
 # Social info
