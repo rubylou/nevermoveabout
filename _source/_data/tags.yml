@@ -14,3 +14,15 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+creativity:
+  name: creativity
+  description: False
+  cover: False
+life:
+  name: life
+  description: False
+  cover: False
+philosophy:
+  name: philosophy
+  description: False
+  cover: False
