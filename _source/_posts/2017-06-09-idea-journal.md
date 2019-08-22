@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/welcome.jpg
+cover:  assets/images/idea-journal.jpg
 navigation: True
 title: About Idea Journal
 date: 2017-06-09 10:00:00

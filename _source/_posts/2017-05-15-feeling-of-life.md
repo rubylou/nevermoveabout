@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/welcome.jpg
+cover:  assets/images/fruits-vegetables.jpg
 navigation: True
 title: 生活的气息
 date: 2017-05-15 10:00:00

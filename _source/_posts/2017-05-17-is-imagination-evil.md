@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/welcome.jpg
+cover:  assets/images/imagination.jpg
 navigation: True
 title: 想象力是魔鬼吗
 date: 2017-05-17 10:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/welcome.jpg
+cover:  assets/images/shanghai-street.jpg
 navigation: True
 title: 大隐隐于市
 date: 2017-06-02 10:00:00
